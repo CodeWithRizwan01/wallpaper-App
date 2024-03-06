@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "755159913267",
+    "project_id": "guns-wallpapers-6d666",
+    "storage_bucket": "guns-wallpapers-6d666.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755159913267:android:6779b615f2f4fbc1c6e446",
+        "android_client_info": {
+          "package_name": "com.gunswallpaper.ak47_baretta_m416_hdgunswallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755159913267-9bvic4ico10e68vi4k7n7906c2varrg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX4KoIf3tXldLVwRKjev2N5lDPyBuRWOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755159913267-9bvic4ico10e68vi4k7n7906c2varrg2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
